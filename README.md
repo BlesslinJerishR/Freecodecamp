@@ -1,5 +1,5 @@
 ## Freecodecamp
-- Collection of my accomplishments in Freecodecamp.com
+- Collection of my accomplishments in Freecodecamp.org
 ---
 > Responsive Web Design
 >>HTML Cat Photo App
