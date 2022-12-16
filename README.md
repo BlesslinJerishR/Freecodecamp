@@ -1,5 +1,7 @@
-## Freecodecamp
+# Freecodecamp
+
 - Collection of my accomplishments in Freecodecamp.org
+
 ---
 > Responsive Web Design
 >>HTML Cat Photo App
@@ -12,4 +14,4 @@
 >>
 <!-- >> Certification Project : Survey Form -->
 
-#### [ Developer : Blesslin Jerish R ]
+## [ Developer : Blesslin Jerish R ]
