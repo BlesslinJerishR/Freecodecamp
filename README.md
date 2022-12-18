@@ -14,5 +14,7 @@
 >>
 >>Cert : Survey Form
 >>
-<!-- >>CSS Painting -->
+>>CSS Painting
+>>
+<!-- >>CSS Photo  Gallery -->
 ## [ Developer : Blesslin Jerish R ]
