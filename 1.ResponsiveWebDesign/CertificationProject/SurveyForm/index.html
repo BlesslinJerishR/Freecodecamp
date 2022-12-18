@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Survey Form</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="border-out">
+  <h1 id="title">Freecodecamp Survey Form</h1>
+  <p id="description">We are by the clients, for the clients and the clients.</p>
+  <form id="survey-form" method="post">
+    <fieldset>
+    <label id="name-label"> Name
+      <input type="text" id="name" class="field-1-input" placeholder="Enter your name" required/>
+    </label>
+    <label id="email-label"> Email
+      <input type="email" id="email" class="field-1-input"placeholder="Enter your email" required/>
+    </label>
+    <label id="number-label"> Ratings
+      <input type="number" id="number" placeholder="Enter your ratings" min="0" max="10" class="field-1-input" />
+    </label>
+    </fieldset>
+    <fieldset>
+    <label id="dropdown-label"> Do you Like our site Freecodecamp ?
+    <select id="dropdown" class="field-1-input" name="dropdown">
+      <option value="">Select your option</option>
+      <option value="1">Yes</option>
+      <option value="2">No</option>
+      <option value="3">Sometimes</option>
+    </select>
+    </label>
+
+    <label> Do you code on Sundays ? 
+      <label  for="radio-yes">
+      <input type="radio"  name="response" id="radio-yes" value="yes"/ class="inline"> Yes</label>
+      <label for="radio-no">
+      <input type="radio"  name="response" id="radio-no" value="no" class="inline"/> No</label>
+      </label>
+   </fieldset>
+<fieldset>
+  <label for="programming-languages">
+    What are the Programming languages you learnt from Freecodecamp ?
+    <label for="html" >
+    <input type="checkbox" value="html" name="html" id="html" class="inline" /> html</label>
+    <label for="css">
+    <input type="checkbox" value="css" name="css" id="css" class="inline" /> css</label>
+    <label for="js">
+    <input type="checkbox" value="js" name="js" id="js" class="inline" /> js</label>
+    <label for="react">
+    <input type="checkbox" value="react" name="react" id="react" class="inline" /> react</label>
+    <label for="mern">
+    <input type="checkbox" value="mern" name="mern" id="mern" class="inline" /> mern</label>
+  </label>
+</fieldset>
+<fieldset>
+  <label for="comments">Enter your comments here !
+    <textarea placeholder="comments"></textarea>
+  </label>
+</fieldset>
+<input type="submit" id="submit" value="Submit">
+</fieldset>
+  </form>
+  </div>
+  <footer>
+    Made with &#10084;&#65039;</span> and HTML + CSS<br>
+    by Blesslin Jerish R
+  </footer>
+</body>
+</html>

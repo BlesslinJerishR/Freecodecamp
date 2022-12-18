@@ -10,8 +10,9 @@
 >>
 >>CSS Markers
 >>
->> HTML Registration Forms
+>>HTML Registration Forms
 >>
-<!-- >> Certification Project : Survey Form -->
-
+>>Cert : Survey Form
+>>
+>>CSS Painting
 ## [ Developer : Blesslin Jerish R ]
