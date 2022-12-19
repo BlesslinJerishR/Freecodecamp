@@ -10,11 +10,13 @@
 >>
 >>CSS Markers
 >>
->>HTML Registration Forms
+>>HTML Registration Form
 >>
 >>Cert : Survey Form
 >>
 >>CSS Painting
 >>
-<!-- >>CSS Photo  Gallery -->
+>>CSS Photo  Gallery
+>>
+<!-- >>CSS Nutrition Label -->
 ## [ Developer : Blesslin Jerish R ]
