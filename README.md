@@ -22,6 +22,6 @@
 >>
 >>HTML CSS Quiz
 >>
->>Cert : Tribute Page
+<!-- >>Cert : Tribute Page -->
 
 ## [ Developer : Blesslin Jerish R ]
