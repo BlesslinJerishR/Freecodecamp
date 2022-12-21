@@ -1,0 +1,55 @@
+*{
+    background-color: #1d1e21;
+  
+    color: #FFF;
+    font-family: courier;
+  }
+  
+  a{
+    color: #F00;
+    text-decoration: none;
+  }
+  
+  #img-div{
+    text-align: center;
+  }
+  
+  #image{
+    height: auto;
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+  }
+  
+  h1, #img-caption{
+    text-align: center;
+    margin: 20px;
+    
+  }
+  
+  #movies-info, #tribute-info{
+    text-align: justify;
+    margin: 50px;
+  }
+  
+  .poster{
+    margin: 50px auto;
+    height: 400px !important;
+    width: 300px;
+  }
+  
+  #know{
+    display: block;
+    padding: 10px;
+  }
+  
+  .green{
+    color: #00FF00;
+  }
+  
+  footer{
+    margin: 30px auto;
+    text-align: center;
+  }
+  
+  
