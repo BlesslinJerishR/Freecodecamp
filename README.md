@@ -3,7 +3,7 @@
 - Collection of my accomplishments in Freecodecamp.org
 
 ---
-> Responsive Web Design
+>- 1 - Responsive Web Design
 >>HTML Cat Photo App
 >>
 >>CSS Coffee Menu
