@@ -31,6 +31,6 @@
 >>
 >>CSS Piano
 >>
->>Cert : Technical Documentation Page - 5%
+>>Cert : Technical Documentation Page - 4%
 
 ## [ Developer : Blesslin Jerish R ]
