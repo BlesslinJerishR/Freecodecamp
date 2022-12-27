@@ -31,6 +31,8 @@
 >>
 >>CSS Piano
 >>
->>Cert : Technical Documentation Page - 60%
+>>Cert : Technical Documentation Page
+>>
+<!-- >>CSS City Skyline -->
 
 ## [ Developer : Blesslin Jerish R ]
