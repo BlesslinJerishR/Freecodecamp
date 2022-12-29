@@ -1,38 +1,50 @@
 # Freecodecamp
 
-- Collection of my accomplishments in Freecodecamp.org
+- Collection of my accomplishments and projects in Freecodecamp.org
 
 ---
 
->- #1 - Responsive Web Design
+## #1 - Responsive Web Design
 >>HTML Cat Photo App
+>>>HTML Basics
 >>
 >>CSS Coffee Menu
+>>>CSS Basics
 >>
 >>CSS Markers
+>>>CSS Colors
 >>
 >>HTML Registration Form
+>>>HTML Forms
 >>
->>Cert : Survey Form
+### #1 Certificate : Survey Form
 >>
->>CSS Painting
+>>CSS Rothko Painting
+>>> CSS Box Model
 >>
 >>CSS Photo  Gallery
+>>> CSS Flexbox
 >>
 >>CSS Nutrition Label
+>>> Typography
 >>
 >>HTML CSS Quiz
+>>> Accessibility
 >>
->>Cert : Tribute Page
+### #2 Certificate : Tribute Page
 >>
 >>CSS Balance Sheet
+>>>CSS Pseudo Selectors
 >>
 >>CSS Picasso Painting
+>>>Intermediate CSS
 >>
 >>CSS Piano
+>>>Responsive Web Design
 >>
->>Cert : Technical Documentation Page
+### #3 Certificate : Technical Documentation Page
 >>
-<!-- >>CSS City Skyline -->
+<!-- >>CSS City Skyline
+>>>CSS Variables  -->
 
 ## [ Developer : Blesslin Jerish R ]
