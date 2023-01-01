@@ -1,6 +1,6 @@
 # Freecodecamp
 
-- Collection of my accomplishments and projects in Freecodecamp.org
+- Collection of my accomplishments and projects in <a href="https://freecodecamp.org"> Freecodecamp.org</a>
 
 ---
 
