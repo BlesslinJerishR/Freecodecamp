@@ -4,7 +4,7 @@
 
 ---
 
-## 1 - Responsive Web Design
+## Responsive Web Design
 >>HTML Cat Photo App
 >>>HTML Basics
 >>
