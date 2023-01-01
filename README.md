@@ -44,7 +44,7 @@
 >>
 ### #3 Certificate : Technical Documentation Page
 >>
-<!-- >>CSS City Skyline - 113
+<!-- >>CSS City Skyline
 >>>CSS Variables  -->
 
 ## [ Developer : Blesslin Jerish R ]
