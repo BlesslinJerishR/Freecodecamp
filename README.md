@@ -5,6 +5,7 @@
 ---
 
 ## Responsive Web Design
+
 >>HTML Cat Photo App
 >>>HTML Basics
 >>
@@ -44,7 +45,10 @@
 >>
 ### #3 Certificate : Technical Documentation Page
 >>
-<!-- >>CSS City Skyline
->>>CSS Variables  -->
+>>CSS City Skyline
+>>>CSS Variables  
+>>
+<!-- >>Magazine
+>>>CSS Grid   -->
 
 ## [ Developer : Blesslin Jerish R ]
