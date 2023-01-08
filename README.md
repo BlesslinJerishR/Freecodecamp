@@ -51,7 +51,7 @@
 >>Magazine
 >>>CSS Grid
 >>
-### #4 Certificate : Product Landing Page
+<!-- ### #4 Certificate : Product Landing Page -->
 <!-- >>
 >>Magazine
 >>>CSS Grid   -->
