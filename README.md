@@ -6,46 +6,46 @@
 
 ## Responsive Web Design
 
->>HTML Cat Photo App
+>>Cat Photo App
 >>>HTML Basics
 >>
->>CSS Coffee Menu
+>>Coffee Menu
 >>>CSS Basics
 >>
->>CSS Markers
+>>Markers
 >>>CSS Colors
 >>
->>HTML Registration Form
+>>Registration Form
 >>>HTML Forms
 >>
 ### #1 Certificate : Survey Form
 >>
->>CSS Rothko Painting
+>>Rothko Painting
 >>> CSS Box Model
 >>
->>CSS Photo  Gallery
+>>Photo  Gallery
 >>> CSS Flexbox
 >>
->>CSS Nutrition Label
+>>Nutrition Label
 >>> Typography
 >>
->>HTML CSS Quiz
+>>Quiz
 >>> Accessibility
 >>
 ### #2 Certificate : Tribute Page
 >>
->>CSS Balance Sheet
+>>Balance Sheet
 >>>CSS Pseudo Selectors
 >>
->>CSS Picasso Painting
+>>Picasso Painting
 >>>Intermediate CSS
 >>
->>CSS Piano
+>>Piano
 >>>Responsive Web Design
 >>
 ### #3 Certificate : Technical Documentation Page
 >>
->>CSS City Skyline
+>>City Skyline
 >>>CSS Variables  
 >>
 <!-- >>Magazine
