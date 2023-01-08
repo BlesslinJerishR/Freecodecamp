@@ -48,7 +48,12 @@
 >>City Skyline
 >>>CSS Variables  
 >>
-<!-- >>Magazine
+>>Magazine
+>>>CSS Grid
+>>
+### #4 Certificate : Product Landing Page
+<!-- >>
+>>Magazine
 >>>CSS Grid   -->
 
 ## [ Developer : Blesslin Jerish R ]
