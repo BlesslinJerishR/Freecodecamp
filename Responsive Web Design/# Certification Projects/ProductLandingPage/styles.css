@@ -1,0 +1,12 @@
+*{
+    overflow-x: hidden;
+}
+
+.collapse{
+    margin-left: 50%;
+}
+
+li{
+    padding-right: 30px;
+    padding-left: 30px;
+}

@@ -53,7 +53,7 @@
 >>
 <!-- ### #4 Certificate : Product Landing Page -->
 <!-- >>
->>Magazine
->>>CSS Grid   -->
+>>name
+>>> what -->
 
 ## [ Developer : Blesslin Jerish R ]
