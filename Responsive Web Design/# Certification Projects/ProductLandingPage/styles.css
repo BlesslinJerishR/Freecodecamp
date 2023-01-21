@@ -10,3 +10,11 @@ li{
     padding-right: 30px;
     padding-left: 30px;
 }
+
+#logo{
+    height: 30px
+}
+
+.email{
+    width: 40%;
+}
