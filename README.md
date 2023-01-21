@@ -21,16 +21,16 @@
 ### #1 Certificate : Survey Form
 >>
 >>Rothko Painting
->>> CSS Box Model
+>>>CSS Box Model
 >>
 >>Photo  Gallery
->>> CSS Flexbox
+>>>CSS Flexbox
 >>
 >>Nutrition Label
->>> Typography
+>>>Typography
 >>
 >>Quiz
->>> Accessibility
+>>>Accessibility
 >>
 ### #2 Certificate : Tribute Page
 >>
