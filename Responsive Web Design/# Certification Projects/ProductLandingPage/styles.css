@@ -18,3 +18,30 @@ li{
 .email{
     width: 40%;
 }
+
+#sony{
+    border-radius: 1000px;
+}
+
+.description{
+    display: block;
+    justify-content: center;
+    position: relative;
+    margin-left: 10%;
+}
+
+svg{
+    transform: translateY(30%);
+    color: blue;
+}
+
+.ps-launch{
+    width: 70%;
+    height: 70%;
+    text-align: center;
+}
+
+.card{
+    width: 300px;
+    margin-right: 10vh;
+}
