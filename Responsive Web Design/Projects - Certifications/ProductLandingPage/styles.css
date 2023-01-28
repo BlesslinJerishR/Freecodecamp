@@ -1,5 +1,6 @@
 *{
     overflow-x: hidden;
+    scroll-behavior: smooth;
 }
 
 .collapse{
@@ -19,7 +20,7 @@ li{
     width: 40%;
 }
 
-#sony{
+.sony{
     border-radius: 1000px;
 }
 
@@ -27,7 +28,7 @@ li{
     display: block;
     justify-content: center;
     position: relative;
-    margin-left: 10%;
+    margin-left: 24%;
 }
 
 svg{
@@ -44,4 +45,31 @@ svg{
 .csize{
     width: 300px;
     margin-right: 10vh;
+}
+
+.cards{
+    display: flex;
+}
+
+p{
+    font-weight: normal;
+    font-size: large;
+}
+
+@media (max-width:481px){ 
+    .cards{
+        display: block !important;
+    }
+
+    .card{
+        margin-bottom: 5vh;
+    }
+
+    .description{
+        margin-left: 18%;
+    }
+ }
+
+.hide{
+    display: none;
 }
