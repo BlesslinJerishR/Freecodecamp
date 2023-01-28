@@ -51,9 +51,9 @@
 >>Magazine
 >>>CSS Grid
 >>
-<!-- ### #4 Certificate : Product Landing Page -->
+### #4 Certificate : Product Landing Page
 <!-- >>
->>name
->>> what -->
+>> Ferris Wheel
+>>> CSS Animation -->
 
 ## [ Developer : Blesslin Jerish R ]
