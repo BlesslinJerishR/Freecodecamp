@@ -4,7 +4,7 @@
 
 ---
 
-## Responsive Web Design
+# Responsive Web Design
 
 >>Cat Photo App
 >>>HTML Basics
@@ -59,4 +59,8 @@
 >>Penguin
 >>CSS Transforms
 
+# JavaScript Algorithms and DataStructures
+
+>> Intermediate Algorithm Scripting
+>>> Sum All Numbers In A Range
 ## [ Developer : Blesslin Jerish R ]
