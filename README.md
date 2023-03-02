@@ -71,5 +71,7 @@
 >>> 
 >>>Pig Latin
 >>>
+>>>DNA Pairing
+>>>
 
 ## [ Developer : Blesslin Jerish R ]
