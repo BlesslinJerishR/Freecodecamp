@@ -65,5 +65,7 @@
 >>> 
 >>>Seek and Destroy
 >>> 
+>>>Sum All Primes
+>>> 
 >>>Pig Latin
 ## [ Developer : Blesslin Jerish R ]
