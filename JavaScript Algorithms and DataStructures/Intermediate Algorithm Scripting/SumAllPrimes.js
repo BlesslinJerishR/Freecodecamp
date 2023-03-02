@@ -14,7 +14,6 @@ function sumPrimes(num) {
       }
     }
     for(let prime of arr){
-        console.log(prime);
       sum += prime;
     }
     return sum;

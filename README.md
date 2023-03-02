@@ -66,6 +66,10 @@
 >>>Seek and Destroy
 >>> 
 >>>Sum All Primes
+>>>
+>>>Convert HTML entities
 >>> 
 >>>Pig Latin
+>>>
+
 ## [ Developer : Blesslin Jerish R ]
